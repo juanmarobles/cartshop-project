@@ -1,0 +1,25 @@
+$base-color: #509c73;
+$color: rgba(rgb(0, 0, 0), 0.88);
+
+body {
+	background: linear-gradient(to right, rgb(255, 255, 255), rgb(0, 162, 255));
+  color: $color;
+}
+
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --very-light-pink: #c7c7c7;
+    --text-input-field: #ffffff;
+    --hospital-green: #acd9b2;
+    --hospital-green-cart: #0dff41;
+    --color-send-recovery: #fcfcfc;
+    --sm: 14px;
+    --md: 16px;
+    --lg: 18px;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+  }
