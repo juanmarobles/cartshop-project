@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cartshop-project/static/css/main.d2be51ed.css",
+    "main.js": "/cartshop-project/static/js/main.3742bdbb.js",
+    "static/media/logo_burger.png": "/cartshop-project/static/media/logo_burger.117a7d64ddaf6d8af952.png",
+    "static/media/bt_add_to_cart.svg": "/cartshop-project/static/media/bt_add_to_cart.c13587f7a917cacfc4722859eba06bca.svg",
+    "static/media/icon_shopping_cart.svg": "/cartshop-project/static/media/icon_shopping_cart.6ee019074975f25fb7927a83133327c4.svg",
+    "static/media/email.svg": "/cartshop-project/static/media/email.bb2ee953f58b7171dfeb6401818f32e4.svg",
+    "static/media/icon_menu.svg": "/cartshop-project/static/media/icon_menu.3aa38c5e16715afedfa9b1adb8607b7d.svg",
+    "index.html": "/cartshop-project/index.html",
+    "static/media/flechita.svg": "/cartshop-project/static/media/flechita.e419d8c93e852173b9b8261835467277.svg",
+    "main.d2be51ed.css.map": "/cartshop-project/static/css/main.d2be51ed.css.map",
+    "main.3742bdbb.js.map": "/cartshop-project/static/js/main.3742bdbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2be51ed.css",
+    "static/js/main.3742bdbb.js"
+  ]
+}
