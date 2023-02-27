@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "https://juanmarobles.github.io/cartshop-project/",
   "name": "react-shop",
   "version": "0.1.0",
   "private": true,
@@ -21,6 +21,13 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "scripts": {
+    "start": "node scripts/start.js",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r https://$GH_TOKENjuanmarobles.github.io/cartshop-project/"
   },
   "eslintConfig": {
     "extends": [
